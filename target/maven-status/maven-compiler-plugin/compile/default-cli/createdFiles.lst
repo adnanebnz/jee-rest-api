@@ -1,0 +1,4 @@
+com\example\api\filter\CorsFilter.class
+com\example\api\servlet\HelloServlet.class
+com\example\api\JAXRSConfiguration.class
+com\example\api\resource\SampleResource.class
